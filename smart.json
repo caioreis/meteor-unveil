@@ -3,7 +3,7 @@
   "description": "Jquery unveil library",
   "homepage": "git@github.com:caioreis/meteor-unveil.git",
   "author": "Caio Moretti",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "git@github.com:caioreis/meteor-unveil.git",
   "packages": {}
 }
