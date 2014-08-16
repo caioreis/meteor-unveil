@@ -1,0 +1,9 @@
+{
+  "name": "jquery-unveil",
+  "description": "Jquery unveil library",
+  "homepage": "git@github.com:caioreis/meteor-unveil.git",
+  "author": "Caio Moretti",
+  "version": "0.0.1",
+  "git": "git@github.com:caioreis/meteor-unveil.git",
+  "packages": {}
+}
